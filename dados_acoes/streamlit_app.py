@@ -25,4 +25,4 @@ st.title("Açoes")
 data = load_data()
 
 st.dataframe(data)
-st.download_button('Download file', data)
+# st.download_button('Download file', data)
