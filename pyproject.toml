@@ -10,6 +10,7 @@ packages = [{include = "dados_acoes"}]
 python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
 streamlit = "^1.15.2"
 watchdog = "^2.2.0"
+requests = "^2.28.1"
 
 
 [build-system]
